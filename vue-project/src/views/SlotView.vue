@@ -1,7 +1,7 @@
 <template>
     <SlotComponent>
       Đây là nội dung mặc định.
-      <template v-slot:details>
+      <template #details>
         Đây là nội dung chi tiết.
       </template>
     </SlotComponent>
