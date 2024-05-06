@@ -8,6 +8,7 @@
   </template>
   
   <script setup>  
+  import SlotComponent from '@/components/SlotComponent.vue'
   </script>
   
   
